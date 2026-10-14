@@ -1,4 +1,4 @@
-// SpaceFinder App Entry
+// SpaceFinder Live App Entry
 
 import React, { useState } from 'react';
 import ListingDashboard from './components/ListingDashboard';
