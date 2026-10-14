@@ -1,3 +1,5 @@
+// SpaceFinder App Entry
+
 import React, { useState } from 'react';
 import ListingDashboard from './components/ListingDashboard';
 import BookingCheckout from './components/BookingCheckout';
